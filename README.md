@@ -1,6 +1,7 @@
-<!-- HEADER (BANNER & SAUDAÇÃO) -->
+<!-- SAUDAÇÃO CENTRALIZADA -->
 <div align="center">
-  <img src="https://vercel.app👋&fontSize=32&fontColor=58a6ff&animation=fadeIn" width="100%" />
+  <h1>Olá, sou o Henrique! 👋</h1>
+  <p>Estudante de Ciência da Computação na Estácio</p>
 </div>
 
 <br />
@@ -15,55 +16,28 @@
 
 <br />
 
-<!-- REDES SOCIAIS (BADGES) -->
+<!-- REDES SOCIAIS (LINKS LIMPOS) -->
 ## 🌐 Conecte-se Comigo
 
-<div align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seu-email@provedor.com" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</div>
+- 💼 **LinkedIn:** [in/henriqueon](https://linkedin.com)
+- ✉️ **Email:** henriquecn06@gmail.com *(ou seu e-mail de preferência)*
 
 <br />
 
-<!-- TECNOLOGIAS (BADGES MINI) -->
+<!-- TECNOLOGIAS EM TEXTO MINIMALISTA -->
 ## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens
-![C](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-
-### ⚙️ Ferramentas & Gráficos
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![OpenGL](https://shields.io)
+- 💻 **Linguagens:** C | JavaScript | HTML5 | CSS3
+- ⚙️ **Ferramentas & Gráficos:** Git | GitHub | OpenGL / GLUT
 
 <br />
 
-<!-- ESTATÍSTICAS DINÂMICAS -->
+<!-- ESTATÍSTICAS DINÂMICAS CORRIGIDAS -->
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://vercel.app" alt="Estatísticas do GitHub" height="165" />
-      </td>
-      <td>
-        <img src="https://vercel.app" alt="Linguagens mais usadas" height="165" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <!-- GRIFE DE CONTRIBUIÇÕES RECENTES -->
-  <img src="https://herokuapp.com" alt="Sequência de Contribuições" width="100%" />
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas" width="48%" />
 </div>
 
 <br />
