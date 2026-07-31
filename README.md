@@ -1,4 +1,4 @@
-# Olá, eu sou Henrique Cucco Nunes! 👋
+# Olá, eu sou Henrique! 👋
 
 **Desenvolvedor Full-Stack & Engenheiro de Dados**
 
