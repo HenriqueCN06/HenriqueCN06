@@ -1,4 +1,4 @@
-# Olá, eu sou Henrique! 👋
+# Olá, eu sou o Henrique! 👋
 
 **Desenvolvedor Full-Stack & Engenheiro de Dados**
 
